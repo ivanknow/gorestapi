@@ -1,0 +1,19 @@
+Aula 1
+//pacote
+package main
+
+//imports
+import (
+	"bufio"
+	"fmt"
+	"os"
+	"strings"
+)
+
+//ponto de montagem
+
+func main() {
+
+fmt.
+
+}
